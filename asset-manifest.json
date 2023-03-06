@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NBA-Legends/static/css/main.6e03ace3.css",
+    "main.js": "/NBA-Legends/static/js/main.8686f22e.js",
+    "static/js/787.7efd31bd.chunk.js": "/NBA-Legends/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/NBA-Legends/index.html",
+    "main.6e03ace3.css.map": "/NBA-Legends/static/css/main.6e03ace3.css.map",
+    "main.8686f22e.js.map": "/NBA-Legends/static/js/main.8686f22e.js.map",
+    "787.7efd31bd.chunk.js.map": "/NBA-Legends/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e03ace3.css",
+    "static/js/main.8686f22e.js"
+  ]
+}
